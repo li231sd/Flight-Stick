@@ -15,3 +15,8 @@
 ### Here is the wiring diagram I devised in KiCad:
 
 <img width="1492" height="1056" alt="image" src="https://github.com/user-attachments/assets/be53fe82-cda1-454b-bfcf-5904434d95f9" />
+
+### BOM
+| Name             | Purpose | Quantity | Total Cost (USD) | Link                                                                                                                                                                                                                                                                                                                                 | Distributor |
+|------------------|--------|----------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Pro Micro Board | Brains | 1        | 11.99            | https://www.amazon.com/OSOYOO-ATmega32U4-Leonardo-Module-Arduino/dp/B0B81FGBLY/ref=sr_1_4?crid=3CH0AQKV1U4OO&dib=eyJ2IjoiMSJ9.n61zO18RZVlVT0iRXuEd4yXSf_pxhYHl34-H6lXnxoXCefJT9Q81wfBrL2B0tYB24zKrG_1sjoSysT7dLO-9cLbmg1LMTfyTArAAxcKztkMiZdFJGjp2X3I4yPEPUlCOJrCKC3JcRg415Hx8vFVVoAMnwKAyqiqboAXZGFlpmeR-jx1Hp55wRcXFL6a0pRix55VHwo8vch7ranU4rrZaVgC6OP2PgaaZN_K5b18Eu1x1UbkK1yVVy7B3HLmPFgUG0ooSiFXDEQLFdAi945yrm49YmPcbKy7uXbigKCbsycQ.dIGMkIoIr2ayeO2lHuy4vARqPXpfGRfqRVs1V0Vk64Y&dib_tag=se&keywords=Arduino%2BMicro%2Busb%2Bc&qid=1776555116&s=electronics&sprefix=arduino%2Bmicro%2Busb%2B%2Celectronics%2C146&sr=1-4&th=1 | Amazon     |
